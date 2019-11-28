@@ -1,0 +1,28 @@
+{
+  "name": "nextjs-redux-typescript-jsonresume",
+  "version": "1.0.0",
+  "description": "A practice of Next.js and Redux and TypeScript for jsonresume website",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.1.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leanhthien/nextjs-redux-typescript-jsonresume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leanhthien/nextjs-redux-typescript-jsonresume/issues"
+  },
+  "homepage": "https://github.com/leanhthien/nextjs-redux-typescript-jsonresume#readme"
+}
