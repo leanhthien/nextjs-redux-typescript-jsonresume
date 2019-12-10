@@ -4,11 +4,31 @@
   "description": "A practice of Next.js and Redux and TypeScript for jsonresume website",
   "main": "index.js",
   "dependencies": {
+    "@types/recompose": "^0.30.7",
+    "@types/redux-logger": "^3.0.7",
+    "isomorphic-unfetch": "^3.0.0",
     "next": "^9.1.4",
+    "next-redux-wrapper": "^4.0.1",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-redux": "^7.1.3",
+    "recompose": "^0.30.0",
+    "redux": "^4.0.4",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "reselect": "^4.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/node": "^12.12.14",
+    "@types/react": "^16.9.13",
+    "@types/react-dom": "^16.9.4",
+    "@typescript-eslint/eslint-plugin": "^2.9.0",
+    "@typescript-eslint/parser": "^2.9.0",
+    "eslint": "^6.7.1",
+    "eslint-plugin-react": "^7.17.0",
+    "redux-devtools-extension": "^2.13.8",
+    "typescript": "^3.7.2"
+  },
   "scripts": {
     "dev": "next",
     "build": "next build",
